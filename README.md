@@ -33,3 +33,6 @@ class SoftwareQualityAssuranceEngineer:
 me = SoftwareQualityAssuranceEngineer()
 me.say_hi()
 ```
+
+<h3 align="left">I am currently reading:</h3>
+<a href="https://www.goodreads.com/user/show/53419868-kelly"><img src="https://goodreads-readme.vercel.app/api/book?id=53419868>" alt="GoodReads reading" width="350" /></a>
