@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareQualityAssuranceEngineer:
+
+    def __init__(self):
+        self.name = "Kelly Brown"
+        self.role = "Software Quality Assurance Engineer"
+
+    def say_hi(self):
+        print("Thanks for visiting!")
+
+
+me = SoftwareQualityAssuranceEngineer()
+me.say_hi()
+```
