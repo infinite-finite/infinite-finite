@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my README.md! My name is Kelly Brown. I am a software quality assurance engineer with almost a decade of experience, and I am currently seeking remote work opportunities.
+Welcome to my README.md! My name is Kelly Brown. I am a software quality assurance engineer with almost a decade of experience testing software and driving quality, and I am currently seeking remote work opportunities.
 
 
 ```
@@ -15,3 +15,8 @@ class InfiniteFinite(object):
 
 Kelly_Brown = InfiniteFinite('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
 ```
+
+## I am currently working on 💼
+
+- Professional Portfolio
+- A passion project with a friend, hopefully soon to be unveiled!
