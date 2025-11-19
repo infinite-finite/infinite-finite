@@ -11,7 +11,7 @@ class InfiniteFinite(object):
         self.title = title
         self.location = location
         self.experience = experience
-        print(f"{self.name} from {self.location}, who has {experience} of professional quality assurance is looking for a {title} role.")
+        print(f"{name} from {location}, who has {experience} of professional quality assurance is looking for a {title} role.")
 
 Kelly_Brown = InfiniteFinite('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
 ```
