@@ -18,5 +18,12 @@ Kelly_Brown = QualityAssurance('Kelly Brown', 'Software Quality Assurance Engine
 
 ##  💼 I am currently working on 
 
-* creating a professional [portfolio](https://github.com/infinite-finite/Portfolio) 
+* creating a professional [portfolio](https://github.com/infinite-finite/Portfolio). Here are some of the projects I intend to include that are a work in progress:
+    * [Polymer Shop Testing](https://github.com/infinite-finite/shop-polymer-project-qa): This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site. It will contain examples of manual tests, automated tests, traceability matrices, test reports, and more.
+    * [QA Documentation Templates](https://github.com/infinite-finite/QA-Documentation-Templates): This project includes templates and examples of various pieces of QA documentation, including but not limited to bug reports, traceability matrices, test cases and test plans.
+    * [Reading Tracker](https://github.com/infinite-finite/Reading-Tracker): The Reading Tracker is a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
 * a passion project with a friend, hopefully soon to be unveiled!
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite-finite)](https://github.com/infinite-finite/github-readme-stats)
