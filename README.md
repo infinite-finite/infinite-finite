@@ -4,7 +4,7 @@ Welcome to my README.md!
 
 
 ```
-class QualityAssurance:
+class QualityAssuranceEngineer:
 
     def __init__(self, name, title, location, experience):
         self.name = name
@@ -13,7 +13,7 @@ class QualityAssurance:
         self.experience = experience
         print(f"{name} from {location}, who has {experience} of professional quality assurance is looking for a remote {title} role.")
 
-Kelly_Brown = QualityAssurance('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
+Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
 ```
 
 ##  💼 I am currently working on 
