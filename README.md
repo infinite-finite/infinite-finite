@@ -25,7 +25,7 @@ Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assuranc
 ##  💼 I am currently working on 
 
 * my [portfolio](https://github.com/infinite-finite/Portfolio)
-* [Reading Tracker](https://github.com/infinite-finite/Reading-Tracker). The Reading Tracker is a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
+* [Reading Tracker](https://github.com/infinite-finite/Reading-Tracker) - a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
 * a passion project with a friend, hopefully soon to be unveiled!
 
 ## 📊 Stats
