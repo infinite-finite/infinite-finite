@@ -16,6 +16,12 @@ class QualityAssuranceEngineer:
 Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
 ```
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,py,pycharm,postman,selenium,graphql,html,css,js,figma,discord,notion" />
+  </a>
+</p>
+
 ##  💼 I am currently working on 
 
 * creating a professional [portfolio](https://github.com/infinite-finite/Portfolio). Here are some of the projects I intend to include that are a work in progress:
