@@ -30,4 +30,4 @@ Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assuranc
 
 ## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
+[![Top Langs](https://fork-github-readme-stats-iota.vercel.app//api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
