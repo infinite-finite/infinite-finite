@@ -11,9 +11,9 @@ class QualityAssuranceEngineer:
         self.title = title
         self.location = location
         self.experience = experience
-        print(f"{name} from {location}, who has {experience} of professional quality assurance is looking for a remote {title} role.")
+        print(f"{name} from {location}, who has {experience} of professional quality assurance experience is looking for a remote {title} role.")
 
-Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years of experience')
+Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years')
 ```
 
 <p align="center">
@@ -25,9 +25,8 @@ Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assuranc
 ##  💼 I am currently working on 
 
 * my [portfolio](https://github.com/infinite-finite/Portfolio)
-* [Reading Tracker](https://github.com/infinite-finite/Reading-Tracker) - a SQL project that allows the user to track, rate, and review the books they've read. The information they provide can then be used to provide a summary of their reading habits.
 * a passion project with a friend, hopefully soon to be unveiled!
 
 ## 📊 Stats
 
-[![Top Langs](https://fork-github-readme-stats-iota.vercel.app//api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
+[![Top Langs](https://fork-github-readme-stats-iota.vercel.app/api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
