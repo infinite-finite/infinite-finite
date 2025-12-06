@@ -30,3 +30,12 @@ Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assuranc
 ## 📊 Stats
 
 [![Top Langs](https://fork-github-readme-stats-iota.vercel.app/api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
+
+## 🤝 Connect with me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kelly-brown-qa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+Connect with me on LinkedIn!
