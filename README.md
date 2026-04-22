@@ -13,7 +13,7 @@ class QualityAssuranceEngineer:
         self.experience = experience
         print(f"{name} from {location}, who has {experience} of professional quality assurance experience is looking for a remote {title} role.")
 
-Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '9+ years')
+Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '10+ years')
 ```
 
 <p align="center">
