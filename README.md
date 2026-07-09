@@ -6,14 +6,14 @@ Welcome to my README.md!
 ```
 class QualityAssuranceEngineer:
 
-    def __init__(self, name, title, location, experience):
+    def __init__(self, name, title, experience, location):
         self.name = name
         self.title = title
         self.location = location
         self.experience = experience
-        print(f"{name} from {location}, who has {experience} of professional quality assurance experience is looking for a remote {title} role.")
+        print(f"{name}, who has {experience} of professional quality assurance experience is looking for a remote or hybrid {title} role in {location}.")
 
-Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', 'New Hampshire, USA', '10+ years')
+Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assurance Engineer', '10+ years', 'New Hampshire or the Greater Boston area')
 ```
 
 <p align="center">
