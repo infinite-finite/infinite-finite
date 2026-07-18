@@ -22,11 +22,6 @@ Kelly_Brown = QualityAssuranceEngineer('Kelly Brown', 'Software Quality Assuranc
   </a>
 </p>
 
-##  💼 I am currently working on 
-
-* my [portfolio](https://github.com/infinite-finite/Portfolio)
-* a passion project with a friend, hopefully soon to be unveiled!
-
 ## 📊 Stats
 
 [![Top Langs](https://fork-github-readme-stats-iota.vercel.app/api/top-langs/?username=infinite-finite&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/infinite-finite/github-readme-stats)
